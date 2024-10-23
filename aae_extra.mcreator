@@ -318,7 +318,7 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "forge-1.18.2",
+    "currentGenerator": "forge-1.19.2",
     "credits": "mcreator",
     "modElementsPackage": "net.mcreator.aaeextra",
     "lockBaseModFiles": false
