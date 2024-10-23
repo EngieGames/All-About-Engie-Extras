@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT License"
+
+[[mods]]
+modId="aae_extra"
+version="10.23.24"
+displayName="AAE extra"
+credits="mcreator"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="EngieGaems"
+description="brand new holy"
+
+[[dependencies.aae_extra]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

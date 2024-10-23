@@ -1,0 +1,327 @@
+{
+  "mod_elements": [
+    {
+      "name": "GMCPro",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gmc_pro",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/procedures/GMCProProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "GMSPro",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gms_pro",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/procedures/GMSProProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "GMAPro",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gma_pro",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/procedures/GMAProProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "GMSPPro",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gmsp_pro",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/procedures/GMSPProProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "EGMCPro",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "egmc_pro",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/procedures/EGMCProProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "EGMSPro",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "egms_pro",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/procedures/EGMSProProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "EGMAPro",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "egma_pro",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/procedures/EGMAProProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "EGMSPPro",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "egmsp_pro",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/procedures/EGMSPProProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Procedures"
+    },
+    {
+      "name": "Gmc",
+      "type": "command",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gmc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/command/GmcCommand.java"
+        ]
+      },
+      "path": "~/Commands"
+    },
+    {
+      "name": "Gms",
+      "type": "command",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gms",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/command/GmsCommand.java"
+        ]
+      },
+      "path": "~/Commands"
+    },
+    {
+      "name": "Gma",
+      "type": "command",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gma",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/command/GmaCommand.java"
+        ]
+      },
+      "path": "~/Commands"
+    },
+    {
+      "name": "Gmsp",
+      "type": "command",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gmsp",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/command/GmspCommand.java"
+        ]
+      },
+      "path": "~/Commands"
+    },
+    {
+      "name": "Egmc",
+      "type": "command",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "egmc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/command/EgmcCommand.java"
+        ]
+      },
+      "path": "~/Commands"
+    },
+    {
+      "name": "Egms",
+      "type": "command",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "egms",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/command/EgmsCommand.java"
+        ]
+      },
+      "path": "~/Commands"
+    },
+    {
+      "name": "Egma",
+      "type": "command",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "egma",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/command/EgmaCommand.java"
+        ]
+      },
+      "path": "~/Commands"
+    },
+    {
+      "name": "Egmsp",
+      "type": "command",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "egmsp",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/aaeextra/command/EgmspCommand.java"
+        ]
+      },
+      "path": "~/Commands"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Tools",
+        "children": []
+      },
+      {
+        "name": "Possible Biomes",
+        "children": []
+      },
+      {
+        "name": "Procedures",
+        "children": []
+      },
+      {
+        "name": "Commands",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "aae_extra",
+    "modName": "AAE extra",
+    "version": "10.23.24",
+    "description": "brand new holy",
+    "author": "EngieGaems",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "aae_extras_logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "mcreator",
+    "modElementsPackage": "net.mcreator.aaeextra",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300336712
+}
