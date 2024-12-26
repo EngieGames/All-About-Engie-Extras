@@ -4,13 +4,13 @@ license="MIT License"
 
 [[mods]]
 modId="aae_extra"
-version="10.23.24"
+version="11.25.24"
 displayName="AAE extra"
 credits="mcreator"
 displayURL="https://mcreator.net"
 logoFile="logo.png"
 authors="EngieGaems"
-description="brand new holy"
+description="hmph"
 
 [[dependencies.aae_extra]]
     modId="minecraft"
